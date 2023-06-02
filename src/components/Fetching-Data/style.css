@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    padding: 0;
+}
+.show-details{
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    padding: 20px;
+}
+
+.item{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px 10px;
+    margin: 10px;
+    
+}
+.btn{
+    width: 100px;
+}
+.show-img{
+    width: 400px;
+    height: 400px;
+    border-radius:50%;
+}

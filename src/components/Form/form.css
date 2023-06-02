@@ -1,0 +1,12 @@
+.ticket-details{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+.ticket{
+    border: 2px dotted black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
